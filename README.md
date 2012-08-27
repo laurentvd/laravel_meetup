@@ -1,13 +1,9 @@
 LARAVEL MEETUP
 ==============
 
-##When: 
+##Friday 14 sep 2012 18:30
 
-Friday 14 sep 2012 18:30
-
-##Where:
-
-Amsterdam, the Netherlands
+##Amsterdam, the Netherlands
 
 ##Plans:
 
