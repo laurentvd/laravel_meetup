@@ -7,7 +7,7 @@ Amsterdam, the Netherlands
 ##What is the plan:
 
 - 18:30   Meet at Amsterdam Central Station "Restaurant 1e Klas". It's on (the eastern side of) platform 2. 
-- 19:00   Togheter eat some of the best Paella in Town. A small and sober restaurant, located in a in the heart of the red-light-districts.
+- 19:00   Eat some of the best Paella in Town in a great but sober looking restaurant. Located in a in the heart of the red-light-districts.
 - ~~~~~:  Enjoy some beers, have a chat and share some toughts.
 
 It comes down to this. *1) eat 2) drink 3) have fun*
