@@ -13,7 +13,7 @@ Amsterdam, the Netherlands
 It comes down to this. *1) eat 2) drink 3) fun*
 
 ##How to join the Laravel Meetup in Amsterdam.:
-Everybody is free to join, please send an email to me@jeroengerits.nl OR add yourself to this list and send a pull request.  It is important to know howmuch people actually are attending (i have to organise some things).
+Everybody is free to join, please send an email to me@jeroengerits.nl or/and add yourself to this readme and send a pull request.  It is important to know howm much people actually are attending (i have to organise some small things).
 
 p.s. Food and drinks are at your own expences.
 
