@@ -4,17 +4,18 @@ LARAVEL MEETUP
 ##Friday 14 sep 2012 18:30
 Amsterdam, the Netherlands
 
-##Plans:
+##What is the plan:
 
-- 18:30   meet at Amsterdam Central Station
-- 19:00   togheter eat some of the best Paella in Amsterdam in the heart of the red-light-district
-- ~~~~~:  find a great pub close to central station drink some beers.
+- 18:30   Meet at Amsterdam Central Station "Restaurant 1e Klas". It's on (the eastern side of) platform 2. 
+- 19:00   Togheter eat some shared dishes of the Paella in Town. Located in the heart of the red-light-districts.
+- ~~~~~:  Enjoy some beers, have a chat and share some toughts togheter in a bar.
 
 It comes down to this. *1) eat 2) drink 3) have fun*
 
 ##How to join the Laravel Meetup in Amsterdam.:
-Everybody is free to join, please send an email to me@jeroengerits.nl or add yourself to the list and git pull. 
-Food and drinks are at your own expences.
+Everybody is free to join, please send an email to me@jeroengerits.nl OR add yourself to this list and send a pull request. 
+
+p.s. Food and drinks are at your own expences.
 
 ##Confirmed attendees
 
