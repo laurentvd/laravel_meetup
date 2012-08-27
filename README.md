@@ -19,6 +19,6 @@ It comes down to this. 1) eat 2) drink 3) have fun
 Just send git pull or an email to me@jeroengerits.nl to be attendee. Event = free, food and drinks are not included :D
 
 ##Confirmed attendees:
-- 
+- Shawn McCool
 -
 -
