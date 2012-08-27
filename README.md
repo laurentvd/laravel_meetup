@@ -1,13 +1,13 @@
 LARAVEL MEETUP AMSTERDAM
 ==============
 
-#When: 
+##When: 
 fr 14 sep 2012 18:30
 
-#Where: 
+##Where: 
 
-#Why:
+##Why:
 
-#How: 
+##How: 
 
-#Confirmed attendees:
+##Confirmed attendees:
