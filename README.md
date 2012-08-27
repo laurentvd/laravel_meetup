@@ -20,10 +20,15 @@ Amsterdam, the Netherlands
 It comes down to this. 1) eat 2) drink 3) have fun
 
 ##How:
-Just send git pull or an email to me@jeroengerits.nl to be attendee. Event = free, food and drinks are not included :D
+Everybody is free to join, please send an email to me@jeroengerits.nl or add yourself and git pull join the Laravel Meetup in Amsterdam. Event = free, food and drinks are not included :D
 
 ##Confirmed attendees
 
 - Shawn McCool
--
--
+- Jeroen Gerits
+- Cees van Egmond
+- Koen Smeets (vespakoen)
+- Michael Teeuw (MichMich)
+- n0xie
+- Roy (rojito)
+- ...add yourself over here...
