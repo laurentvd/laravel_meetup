@@ -17,10 +17,11 @@ Amsterdam, the Netherlands
 
 ##Why:
 
-It comes down to this. 1) eat 2) drink 3) have fun
+It comes down to this. *1) eat 2) drink 3) have fun*
 
-##How:
-Everybody is free to join, please send an email to me@jeroengerits.nl or add yourself and git pull join the Laravel Meetup in Amsterdam. Event = free, food and drinks are not included :D
+##How to join the Laravel Meetup in Amsterdam.:
+Everybody is free to join, please send an email to me@jeroengerits.nl or add yourself to the list and git pull. 
+Food and drinks are at your own expences.
 
 ##Confirmed attendees
 
