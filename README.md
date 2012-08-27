@@ -7,13 +7,13 @@ Amsterdam, the Netherlands
 ##What is the plan:
 
 - 18:30   Meet at Amsterdam Central Station "Restaurant 1e Klas". It's on (the eastern side of) platform 2. 
-- 19:00   Eat some of the best Paella in Town in a great but sober looking restaurant. Located in a in the heart of the red-light-districts.
-- ~~~~~:  Enjoy some beers, have a chat and share some toughts.
+- 19:00   Eat some of the best Paella in Town in a great but sober looking restaurant. Located in a in the heart of the red-light-disctrict.
+- ~~~~~:  Enjoy some beers, have a chat and share some toughts. Nothing to complicated.
 
-It comes down to this. *1) eat 2) drink 3) have fun*
+It comes down to this. *1) eat 2) drink 3) fun*
 
 ##How to join the Laravel Meetup in Amsterdam.:
-Everybody is free to join, please send an email to me@jeroengerits.nl OR add yourself to this list and send a pull request. 
+Everybody is free to join, please send an email to me@jeroengerits.nl OR add yourself to this list and send a pull request.  It is important to know howmuch people actually are attending (i have to organise some things).
 
 p.s. Food and drinks are at your own expences.
 
