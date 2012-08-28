@@ -7,7 +7,7 @@ Amsterdam, the Netherlands
 ##What is the plan:
 
 - 18:30   Meet at Amsterdam Central Station "Restaurant 1e Klas". It's on (the eastern side of) platform 2. 
-- 19:00   Eat some of the best Paella in Town in a great but sober looking restaurant. Located in a in the heart of the red-light-disctrict.
+- 19:00   Eat some of the best Paella in Town in sober looking restaurant with awesome seafood. Located in a in the heart of the red-light-disctrict.
 - ~~~~~:  Enjoy some beers, have a chat and share some toughts. Nothing to complicated.
 
 It comes down to this. *1) eat 2) drink 3) fun*
