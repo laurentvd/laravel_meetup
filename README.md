@@ -22,12 +22,12 @@ p.s. Food and drinks are at your own expences.
 ##Confirmed attendees
 
 - Shawn McCool
-- Jeroen Gerits
 - Cees van Egmond
 - Koen Smeets (vespakoen)
 - Michael Teeuw (MichMich)
 - n0xie
 - Roy (rojito)
+- myself (jeroengerits)
 - ...add yourself over here (also send me an email for double confirmation)...
 
 TIP: use the shiney new WATCH option in github to receive emails when things are changing :D
