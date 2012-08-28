@@ -28,6 +28,7 @@ p.s. Food and drinks are at your own expences.
 - n0xie
 - kevin newesil(kevinnewesil)
 - Roy (rojito)
+- kevin newesil(kevinnewesil)
 - myself (jeroengerits)
 - ...add yourself over here (also send me an email for double confirmation)...
 
