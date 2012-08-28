@@ -14,6 +14,7 @@ It comes down to this. *1) eat 2) drink 3) fun*
 
 ##How to join the Laravel Meetup in Amsterdam.:
 Everybody is free to join, please send an email to me@jeroengerits.nl or/and add yourself to this readme and send a pull request.  It is important to know how much people actually are attending (i have to organise some small things).
+Google+ users: https://plus.google.com/events/ctcmesqhfi6s4qeciieeb3fppjs/107261273070782054189
 
 p.s. Food and drinks are at your own expences.
 
