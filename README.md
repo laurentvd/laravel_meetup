@@ -27,6 +27,7 @@ p.s. Food and drinks are at your own expences.
 - Michael Teeuw (MichMich)
 - n0xie
 - Roj Vroemen (Rojtjo)
+- kevin newesil(kevinnewesil)
 - myself (jeroengerits)
 - ...add yourself over here (also send me an email for double confirmation)...
 
