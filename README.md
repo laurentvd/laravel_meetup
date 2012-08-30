@@ -7,17 +7,17 @@ Amsterdam, the Netherlands
 ##What is the plan:
 
 - 18:30   Meet at Amsterdam Central Station "Restaurant 1e Klas". It's on (the eastern side of) platform 2. 
-- 19:00   Eat some of the best Paella in Town in a sober but great spanish restaurant. Located in a in the heart of the red-light-disctrict.
-- ~~~~~:  Enjoy some beers, have a chat and share some toughts. Nothing to complicated.
+- 19:00   Eat some of the best Paella in Town in a sober but great spanish restaurant. Located in the heart of the red-light district.
+- ~~~~~:  Enjoy some beers, have a chat and share some thoughts.. nothing too complicated.
 
 It comes down to this. *1) eat 2) drink 3) fun*
 
 ##How to join the Laravel Meetup in Amsterdam.:
-Everybody is free to join, please send an email to me@jeroengerits.nl or/and add yourself to this readme and send a pull request.  It is important to know how much people actually are attending (i have to organise some small things).
+Everybody is free to join, please send an email to me@jeroengerits.nl and/or add yourself to this README and send a pull request.  It is important to know how many people are actually attending (I have to organize some small things).
 
 Google+ users: https://plus.google.com/events/ctcmesqhfi6s4qeciieeb3fppjs/107261273070782054189
 
-p.s. Food and drinks are at your own expences.
+P.S. - Food and drink are at your own expense.
 
 ##Confirmed attendees
 
@@ -27,9 +27,9 @@ p.s. Food and drinks are at your own expences.
 - Michael Teeuw (MichMich)
 - n0xie
 - Roj Vroemen (Rojtjo)
-- kevin newesil(kevinnewesil)
+- kevin newesil (kevinnewesil)
 - Jorijn Schrijvershof
 - myself (jeroengerits)
-- ...add yourself over here (also send me an email for double confirmation)...
+- ...add yourself here (also send me an email for double confirmation)...
 
-TIP: use the shiney new WATCH option in github to receive emails when things are changing :D
+TIP: Use GitHub's shiny new WATCH option to receive an email when things change. :D
