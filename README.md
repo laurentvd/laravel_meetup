@@ -29,6 +29,7 @@ P.S. - Food and drink are at your own expense.
 - Roj Vroemen (Rojtjo)
 - kevin newesil (kevinnewesil)
 - Jorijn Schrijvershof
+- Nick Spelt (Nickstr)
 - myself (jeroengerits)
 - ...add yourself here (also send me an email for double confirmation)...
 
