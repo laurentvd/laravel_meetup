@@ -23,7 +23,7 @@ P.S. - Food and drink are at your own expense.
 
 - Shawn McCool
 - Cees van Egmond
-- Koen Smeets (vespakoen)
+- Koen Schmeets (vespakoen)
 - Michael Teeuw (MichMich)
 - n0xie
 - Roj Vroemen (Rojtjo)
