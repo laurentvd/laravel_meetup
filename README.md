@@ -3,6 +3,7 @@ LARAVEL MEETUP
 
 ##Friday 14 sep 2012 18:30
 Amsterdam, the Netherlands
+Contact: Jeroen Gerits (Mobile 06 141 302 75)
 
 ##What is the plan:
 
