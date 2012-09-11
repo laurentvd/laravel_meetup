@@ -29,7 +29,7 @@ P.S. - Food and drink are at your own expense.
 - n0xie
 - Roj Vroemen (Rojtjo)
 - kevin newesil (kevinnewesil)
-- Jorijn Schrijvershof
+- ~~Jorijn Schrijvershof~~ (cancelled)
 - Nick Spelt (Nickstr)
 - myself (jeroengerits)
 - ...add yourself here (also send me an email for double confirmation)...
