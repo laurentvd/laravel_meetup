@@ -22,6 +22,7 @@ P.S. - Food and drink are at your own expense.
 
 - Shawn McCool
 - myself (jeroengerits)
+- Timothy Seebus  (Taftse)
 - ...add yourself here (also send me an email for double confirmation)...
 
 TIP: Use GitHub's shiny new WATCH option to receive an email when things change. :D
