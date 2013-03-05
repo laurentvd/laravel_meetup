@@ -3,7 +3,8 @@ LARAVEL MEETUP
 
 ## 20 April 2013
 Amsterdam, the Netherlands
-Contact if needed for additional information: Jeroen Gerits (@jeroengerits / Mobile 06 141 302 75)
+
+Contact: Jeroen Gerits (@jeroengerits / Mobile 06 141 302 75)
 
 ## What is the plan:
 
