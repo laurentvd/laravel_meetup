@@ -1,7 +1,7 @@
 LARAVEL MEETUP
 ==============
 
-## Suggest a new date
+## Place new date here (and spread the word)
 Utrecht, the Netherlands
 Contact: Jeroen Gerits (Mobile 06 141 302 75)
 
