@@ -23,3 +23,7 @@ TIP: Use GitHub's shiny new WATCH option to receive an email when things change.
 ## Bonus
 
 You have an extra bed to host a friendly french guy for one night ? Contact me : julien@laravel.fr
+
+## Attending
+- Jeroen Gerits
+- Julien from france
