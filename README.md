@@ -11,7 +11,7 @@ Contact: Jeroen Gerits (Mobile 06 141 302 75)
 - 19:00   Eat some food in a restaurant
 - 20:00   Drink some drinks in a bar
 
-It comes down to this. *1) eat 2) drink 3) fun*
+This specific meetup is a great place to brainstorm and discuss about Laracon Amsterdam 2013.
 
 ## How to join the Laravel Meetup in Amsterdam.:
 Everybody is free to join, please send an email to me@jeroengerits.nl and/or add yourself to this README and send a pull request.  It is important to know how many people are actually attending (I have to organize some small things).
