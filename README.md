@@ -25,5 +25,6 @@ TIP: Use GitHub's shiny new WATCH option to receive an email when things change.
 You have an extra bed to host a friendly french guy for one night ? Contact me : julien@laravel.fr
 
 ## Attending
+- Julien from France
+- Shawn mcCool
 - Jeroen Gerits
-- Julien from france
