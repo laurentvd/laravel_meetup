@@ -15,7 +15,7 @@ Contact: Jeroen Gerits (@jeroengerits / Mobile 06 141 302 75)
 This specific meetup is a great place to brainstorm and discuss about Laracon Amsterdam 2013.
 
 ## How to join the Laravel Meetup in Amsterdam.:
-Everybody is free to join, please send an email to me@jeroengerits.nl and/or add yourself to this README and send a pull request.  It is important to know how many people are actually attending (I have to organize some small things).
+Everybody is free to join, please add yourself to this README and send a pull request.  It is important to know how many people are actually attending (I have to organize some small things).
 
 P.S. - Food and drink are at your own expense.
 
